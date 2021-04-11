@@ -1,4 +1,5 @@
-# QC_Hack
+# Quantum Coalition Hack
+
 ## Our idea 
 
 Our project aims to explore the higher energy states of quantum hardware ( based on the  prefernece [6.2 Accessing Higher Energy States](https://qiskit.org/textbook/ch-quantum-hardware/accessing_higher_energy_states.html) and put together an idea of generating random number using higher energy states of quantum hardware.
